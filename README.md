@@ -385,7 +385,7 @@ These are frameworks that do not force you to apply their classes to many elemen
 ### missing.css
 
 * [Repository](https://github.com/bigskysoftware/missing) ![GitHub stars](https://img.shields.io/github/stars/bigskysoftware/missing?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/bigskysoftware/missing?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/bigskysoftware/missing?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/bigskysoftware/missing?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/bigskysoftware/missing?style=flat-square)
-* [Demo](https://minicss.org/docs)
+* [Demo](https://missing.style/demos/)
 
 [![minicss.png](thumbnail/minicss.png)](screenshot/minicss.png)
 
